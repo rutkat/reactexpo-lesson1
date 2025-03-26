@@ -1,16 +1,11 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+My React Native [Expo](https://expo.dev) demo lesson 1.
 
 ## Get started
-
-1. Install dependencies
-
+1. Install
    ```bash
    npm install
    ```
-
-2. Start the app
+2. Start
 
    ```bash
     npx expo start
